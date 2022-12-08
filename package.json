@@ -1,0 +1,26 @@
+{
+  "name": "command-executer",
+  "version": "1.0.0",
+  "description": "Исполнитель любых команд",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarriGarrison/command-executer.git"
+  },
+  "keywords": [],
+  "author": "Garrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarriGarrison/command-executer/issues"
+  },
+  "homepage": "https://github.com/GarriGarrison/command-executer#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.5"
+  }
+}
