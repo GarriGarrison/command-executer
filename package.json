@@ -21,6 +21,7 @@
     "inquirer": "^8.2.5"
   },
   "devDependencies": {
-    "@types/inquirer": "^8.2.5"
+    "@types/inquirer": "^8.2.5",
+    "@types/node": "^18.11.12"
   }
 }
